@@ -78,6 +78,7 @@ Sorting Visualizer is an interactive tool that visually demonstrates various sor
 
 ### Completed Sorting
 
+![image alt](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/36b088aa1dbe9503451c2b69e310cbc0bd0afa0b/images/Screenshot%20(4299).png)
 ![Completed Sorting](screenshots/completed_sorting.png)
 
 ## Contributing
