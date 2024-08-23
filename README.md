@@ -70,7 +70,7 @@ Sorting Visualizer is an interactive tool that visually demonstrates various sor
 
 ### 1. Application Overview
 
-![Alt text]([path/to/image.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true))
+![image alt]([path/to/image.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true))
 
 
 ### 2. Array Generation
