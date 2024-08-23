@@ -68,18 +68,31 @@ Sorting Visualizer is an interactive tool that visually demonstrates various sor
 
 ## Screenshots
 
-### Main Interface
+### 1. Application Overview
 
-[https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/36b088aa1dbe9503451c2b69e310cbc0bd0afa0b/images/Screenshot%20(4299).png)
+![Alt text]([path/to/image.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true))
 
-### Sorting in Progress
 
-![Sorting in Progress]()
+### 2. Array Generation
 
-### Completed Sorting
+![Alt text]([path/to/image.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true)](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4304).png?raw=true))
 
-![image alt](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/36b088aa1dbe9503451c2b69e310cbc0bd0afa0b/images/Screenshot%20(4299).png)
-![Completed Sorting](screenshots/completed_sorting.png)
+### 3. Algorithm Selection
+
+![Alt text]([path/to/image.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true))
+
+### 4. Sorting Process
+
+![Alt text]([docs/sorting-process.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4306).png?raw=true))
+
+### 5. Controls
+
+![Alt text]([docs/sorting-process.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4306).png?raw=true))
+
+### 6. Complexity Dialog
+
+![Alt text]([docs/complexity-dialog.png](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4307).png?raw=true))
+
 
 ## Contributing
 
