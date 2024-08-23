@@ -70,7 +70,7 @@ Sorting Visualizer is an interactive tool that visually demonstrates various sor
 
 ### Main Interface
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](images/Screenshot (4299).png)
 
 ### Sorting in Progress
 
