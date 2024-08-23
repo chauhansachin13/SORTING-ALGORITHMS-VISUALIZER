@@ -70,11 +70,11 @@ Sorting Visualizer is an interactive tool that visually demonstrates various sor
 
 ### Main Interface
 
-![Main Interface](images/Screenshot (4299).png)
+[https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4299).png?raw=true](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/36b088aa1dbe9503451c2b69e310cbc0bd0afa0b/images/Screenshot%20(4299).png)
 
 ### Sorting in Progress
 
-![Sorting in Progress](screenshots/sorting_in_progress.png)
+![Sorting in Progress]()
 
 ### Completed Sorting
 
