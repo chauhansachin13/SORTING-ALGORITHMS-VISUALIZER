@@ -83,8 +83,7 @@
 
 ### 4. Sorting in Progress
 
-![image alt](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(4306).png?raw=true)
-
+![image alt](https://github.com/chauhansachin13/SORTING-ALGORITHMS-VISUALIZER/blob/main/images/Screenshot%20(43006).png?raw=true)
 ### 5. Controls
 
 ![image alt](https://github.com/chauhansachin13/SORTING-VISUALIZER/blob/main/images/Screenshot%20(43063).png?raw=true)
