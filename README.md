@@ -1,8 +1,8 @@
-# SORTING-VISUALIZER
+# SORTING ALGORITHMS VISUALISER
 
 ## Overview
 
-Sorting Visualizer is an interactive tool that visually demonstrates various sorting algorithms, allowing users to see how they work in real time. Features include adjustable speed, pause/resume functionality, and support for multiple sorting techniques.
+"Sorting Algorithms Visualiser" is an interactive tool that visually demonstrates various sorting algorithms, allowing users to see how they work in real time. Features include adjustable speed, pause/resume functionality, and support for multiple sorting techniques.
 
 
 ## Features
@@ -105,7 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, please contact [sachin_2021bcse084@nitsriac.in](mailto:sachin_2021bcse084@nitsriac.in).
 
-Sorting Visualizer is a project aimed at making sorting algorithms more comprehensible through visual representation. Happy sorting!
+Sorting Algorithms Visualiser is a project aimed at making sorting algorithms more comprehensible through visual representation. Happy sorting!
 
 
 
