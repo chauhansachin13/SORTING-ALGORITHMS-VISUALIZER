@@ -35,25 +35,25 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/chauhan13/sorting-visualizer.git
+    git clone https://github.com/chauhan13/SORTING-ALGORITHMS-VISUALIZER.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd sorting-visualizer
+    cd SORTING-ALGORITHMS-VISUALIZER
     ```
 
 3. Compile the Java files:
 
     ```bash
-    javac SortingVisualizer.java
+    javac SortingAlgorithmsVisualizer.java
     ```
 
 4. Run the application:
 
     ```bash
-    java SortingVisualizer
+    java SortingAlgorithmsVisualizer
     ```
 
 ## Usage
