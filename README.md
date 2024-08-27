@@ -2,7 +2,7 @@
 
 
 
-## Feel free to download the [SortingAlgorithmsVisualizer.exe [94 KB]](<u>https://github.com/chauhansachin13/SORTING-ALGORITHMS-VISUALIZER/raw/main/SortingAlgorithmsVisualizer.exe</u>) file to experience the project visualization.
+## Feel free to download the [SortingAlgorithmsVisualizer.exe [94 KB]](https://github.com/chauhansachin13/SORTING-ALGORITHMS-VISUALIZER/raw/main/SortingAlgorithmsVisualizer.exe) file to experience the project visualization.
 
 ## Overview
 
