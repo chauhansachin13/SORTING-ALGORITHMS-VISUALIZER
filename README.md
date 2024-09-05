@@ -8,6 +8,13 @@
 
 [Watch the demo video](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
 
+## Video Tutorial
+
+[![Video Title](https://img.youtube.com/vi/yQeM4cSvUDw/default.jpg)](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
+
+Click the image above to watch the video.
+
+
 
 ## Overview
 
