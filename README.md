@@ -6,9 +6,12 @@
 
 
 
-## Click the image below to watch the Demo video.
+## Watch the Demo Video
 
-[![Video Thumbnail with Play Button](https://img.youtube.com/vi/yQeM4cSvUDw/hqdefault.jpg)](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
+Click the image below to view the demo video:
+
+[![Watch the Demo Video](https://img.youtube.com/vi/yQeM4cSvUDw/hqdefault.jpg)](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
+
 
 
 ## Overview
