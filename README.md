@@ -4,6 +4,11 @@
 
 ## Feel free to download the [SortingAlgorithmsVisualizer.exe [94 KB]](https://github.com/chauhansachin13/SORTING-ALGORITHMS-VISUALIZER/blob/7f3d5727b94e37fe9e3c017896442052a200a59c/SortingAlgorithmsVisualizer.exe) file to experience the project visualization.
 
+## Demo Video
+
+[Watch the demo video](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
+
+
 ## Overview
 
 "Sorting Algorithms Visualiser" is an interactive tool that visually demonstrates various sorting algorithms, allowing users to see how they work in real time. Features include adjustable speed, pause/resume functionality, and support for multiple sorting techniques.
