@@ -7,7 +7,9 @@
 
 ## Click the image below to watch the Demo video.
 
-[![Video Thumbnail with Play Button](https://img.youtube.com/vi/yQeM4cSvUDw/hqdefault.jpg)](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
+<a href="https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR" target="_blank">
+    <img src="https://img.youtube.com/vi/yQeM4cSvUDw/hqdefault.jpg" alt="Video Thumbnail with Play Button">
+</a>
 
 
 ## Overview
