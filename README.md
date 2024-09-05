@@ -5,13 +5,9 @@
 ## Feel free to download the [SortingAlgorithmsVisualizer.exe [94 KB]](https://github.com/chauhansachin13/SORTING-ALGORITHMS-VISUALIZER/blob/7f3d5727b94e37fe9e3c017896442052a200a59c/SortingAlgorithmsVisualizer.exe) file to experience the project visualization.
 
 
+## Click the image below to watch the Demo video.
 
-## Watch the Demo Video
-
-Click the image below to view the demo video:
-
-[![Watch the Demo Video](https://img.youtube.com/vi/yQeM4cSvUDw/hqdefault.jpg)](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
-
+[![Video Thumbnail with Play Button](https://img.youtube.com/vi/yQeM4cSvUDw/hqdefault.jpg)](https://youtu.be/yQeM4cSvUDw?si=fzcw8zE6vEUTVeOR)
 
 
 ## Overview
